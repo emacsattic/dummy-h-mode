@@ -43,7 +43,7 @@ C++ 向けの `dummy-h-mode-cc-keywords`、および Objective-C 向けの `dumm
 
 # バージョン
 
-## 1.0.0 on 3 Feb. 2012
+## 1.0.0 on 3 Mar. 2012
 
 ファーストコミット。
 
