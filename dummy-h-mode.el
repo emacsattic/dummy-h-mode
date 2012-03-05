@@ -86,9 +86,9 @@
   :group 'dummy-h-mode)
 
 (defcustom dummy-h-mode-c-keywords
-  '(("_Bool[ \t\n\r]" . 1)
-    ("_Complex[ \t\n\r]" . 1)
-    ("_Imaginary[ \t\n\r]" . 1))
+  '(("_Bool[\* \t\n\r]" . 1)
+    ("_Complex[\* \t\n\r]" . 1)
+    ("_Imaginary[\* \t\n\r]" . 1))
   "C keywords and their minimum counts of appearance"
   :type  '(repeat (cons regexp number))
   :group 'dummy-h-mode)
