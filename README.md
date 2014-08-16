@@ -43,6 +43,10 @@ C++ 向けの `dummy-h-mode-cc-keywords`、および Objective-C 向けの `dumm
 
 # バージョン
 
+## 1.0.1 on 16 Sug. 2014
+
+リファクタリング。
+
 ## 1.0.0 on 3 Mar. 2012
 
 ファーストコミット。
